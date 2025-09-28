@@ -58,7 +58,6 @@ lapland %>%
     .groups = "drop"
   )
 
-
 #Question B let us run a descriptive analysis of Diabetes
 #In this part i would describe diabetes qualitatively and by graphs
 
