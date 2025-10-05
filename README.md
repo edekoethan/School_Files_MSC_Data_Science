@@ -34,12 +34,36 @@ It includes introductory R exercises, standardization, and applied data science 
    ![Diabetes Distribution by Sex](images/diabetes_distribution_by_sex.png)  
    ![Histogram of BMI](images/histogram_of_BMI.png)  
 
-4. **Hospital Readmission (Diabetes Dataset)**  
-   File: [`diabetic_data.csv`](./my_projects/diabetic_data.csv)  
-   - Cleaned dataset with 100K+ hospital encounters.  
-   - Missing data handling (`weight`, `payer_code`).  
-   - Distribution of patient age, gender, and readmission rates.  
-   - Analysis of medications vs. readmission.  
+4. **Assignment 3**  
+   - **Research Question:**  
+     A researcher is interested in comparing BMI between individuals with COPD and healthy individuals. She claims that BMI differs between these two groups.  
+     
+   - **Tasks:**  
+     - a) Define the null and alternative hypotheses.  
+     - b) Choose the most appropriate statistical test for this hypothesis.  
+     - c) Run the test and interpret the results.  
+     - *Hint: Carefully consider the assumptions of the chosen test.*  
+     
+   - **File:** [`eromosele.edeko2.R`](./eromosele.edeko2.R)
+   ![Histogram of BMI and COPD status](image/Histogram of BMI and COPD status.png)  
+   ![qqplot of BMI based on COPD status](images/qqplot of BMI based on COPD status.png)
+   
+5. **Assignment 3B**  
+   A survey of 175 young adults classified their highest level of schooling as either "graduated from university," "graduated from high school," or "neither." Their parents were classified as "wealthy," "middle class," or "poor." The results are summarized in Table 1 (Observed Values).  
+
+   **Question:**  
+   Based on the data collected, can we conclude that a person’s level of schooling is independent of their parents’ wealth?  
+
+   **Tasks:**  
+   - a) Perform a Chi-Square Test manually.  
+
+   |                | Univ | High Sch | None | Total |
+   |----------------|------|----------|------|-------|
+   | **Wealthy**    |  20  |    15    |  10  |  45   |
+   | **Middle class** |  40  |    25    |  20  |  85   |
+   | **Poor**       |   8  |    14    |  23  |  45   |
+   | **Total**      |  68  |    54    |  53  | 175   |
+
 
 ---
 
