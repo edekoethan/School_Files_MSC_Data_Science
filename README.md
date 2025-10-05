@@ -36,17 +36,18 @@ It includes introductory R exercises, standardization, and applied data science 
 
 4. **Assignment 3**  
    - **Research Question:**  
-     A researcher is interested in comparing BMI between individuals with COPD and healthy individuals. She claims that BMI differs between these two groups.  
-     
-   - **Tasks:**  
-     - a) Define the null and alternative hypotheses.  
-     - b) Choose the most appropriate statistical test for this hypothesis.  
-     - c) Run the test and interpret the results.  
-     - *Hint: Carefully consider the assumptions of the chosen test.*  
-     
+      A researcher is interested in comparing BMI between individuals with COPD and healthy individuals. She claims that BMI differs between these two groups.  
+
+     - **Tasks:**  
+      - a) Define the null and alternative hypotheses.  
+      - b) Choose the most appropriate statistical test for this hypothesis.  
+      - c) Run the test and interpret the results.  
+      - *Hint: Carefully consider the assumptions of the chosen test.*  
+
    - **File:** [`eromosele.edeko2.R`](./eromosele.edeko2.R)
-   ![Histogram of BMI and COPD status](image/Histogram of BMI and COPD status.png)  
-   ![qqplot of BMI based on COPD status](images/qqplot of BMI based on COPD status.png)
+
+     ![Histogram of BMI and COPD status](images/Histogram%20of%20BMI%20and%20COPD%20status.png)  
+     ![QQ plot of BMI based on COPD status](images/qqplot%20of%20BMI%20based%20on%20COPD%20status.png)
    
 5. **Assignment 3B**  
    A survey of 175 young adults classified their highest level of schooling as either "graduated from university," "graduated from high school," or "neither." Their parents were classified as "wealthy," "middle class," or "poor." The results are summarized in Table 1 (Observed Values).  
